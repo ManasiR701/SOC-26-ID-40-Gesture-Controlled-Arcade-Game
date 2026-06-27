@@ -2,8 +2,7 @@
 
 This is a keyboard-controlled Snake game built using **Pygame**.
 
-Your task is to **understand this code thoroughly**, and then in the upcoming weeks, replace the keyboard input with your own gesture logic using MediaPipe.
-
+Your task is to **understand this code thoroughly**, and then in the upcoming weeks, replace the keyboard input with your own gesture logic using MediaPipe. We have provided a **highly commented** snake game code (`keyboard_snake_game.py`). We would recommend you to play around with variables and see the results so that you can understand the code in a better way and you can create changes and add additional features of your own to create your own customized snake game :)
 ---
 
 ## How to Run
@@ -444,5 +443,5 @@ Once you understand this code, your job is to integrate your gesture detection l
 
 The key insight: the game doesn't care *where* the direction command comes from i.e. keyboard or gesture. You are simply replacing what sets the `direction` variable.
 
----
+
 
